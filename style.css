@@ -1,0 +1,17 @@
+h3,h5{
+    background-color: cornflowerblue;
+    color: white;
+}
+#div_dere{
+float: right;
+}
+#div_izqui{
+    float: left;
+}
+canvas{
+    background-color: rgb(246, 236, 148);
+}
+button{
+    background-color: rgb(242, 235, 133);
+
+}
